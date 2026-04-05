@@ -32,13 +32,14 @@ bi_monitor/
 │   └── email_report.py     # Builds & sends daily HTML email
 │
 ├── templates/
-│   └── dashboard.html      # Main UI (Chart.js graphs)
+│   └── dashboard.html       # Main UI (Chart.js graphs)
 │
 ├── static/
 │   └── style.css
 │
 ├── config.py               # API keys, email creds, thresholds
-└── requirements.txt
+├── requirements.txt
+└── README.md
 ```
 
 ---
